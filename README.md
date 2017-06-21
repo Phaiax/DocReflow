@@ -13,3 +13,5 @@ It does not work with different types of comments at the same time. So selecting
 Currently works with `#`, `//`, `///`, `--` and `//!`. Multi line comments like `/* */` are not supported.
 
 This plugin is rough, but does it's job well enough. If it doesn't work out, a undo (`ctrl+z`) will revert the changes.
+
+The line length is specified by the last array element of the `rulers` setting in the default sublime setting file or defaults to 80.
