@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "DocReflow: Format selected text.",
+		"command": "doc_reflow_format_selected_text",
+	}
+]

@@ -1,0 +1,7 @@
+[
+	{
+		"command": "doc_reflow_format_selected_text",
+		"keys": ["alt+shift+f", "alt+shift+f"],
+	    "context" : [ { "key" : "selector" , "operator":"equal", "operand":"comment"} ]
+	}
+]
